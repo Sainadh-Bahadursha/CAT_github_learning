@@ -6,3 +6,8 @@ This is the folder created by the me While practicing the SURAAJ HASIJA sir Git 
 This edit was done in Remote Repository
 
 Hahaha I am in Branch A
+
+
+
+----
+Offense taken by A
