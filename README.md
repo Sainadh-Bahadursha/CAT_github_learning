@@ -7,7 +7,5 @@ This edit was done in Remote Repository
 
 Hahaha I am in Branch A
 Branch A is second time offensive
-
-
-----
-Offense taken by A
+----------
+Branch B is offensive
